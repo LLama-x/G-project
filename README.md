@@ -1,1 +1,2 @@
-# G-project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
